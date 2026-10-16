@@ -1,5 +1,5 @@
 ## Hi! 👋
-I am curious about how humans and machines think, and I would love to make the world a better place through technology.
+Curious about how humans and machines think. Building technology to make the world a better place.
 
 <!--
 **sofiaolcs/sofiaolcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
