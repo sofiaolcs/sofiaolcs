@@ -1,9 +1,5 @@
 ## Hi! 👋
-My name is Sofia.
-I'm currenctly studying Computer Science. 
-I'm exploring a diversity of programming possibilites to choose which one I like the most.
-
-Currently I am working on Java programs.
+I am curious about how humans and machines think, and I would love to make the world a better place through technology.
 
 <!--
 **sofiaolcs/sofiaolcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
